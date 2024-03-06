@@ -1,4 +1,5 @@
 #!chapter_007/src/snippet_002.py
+# the code here is an edited version from Joris Schellekens: https://github.com/jorisschellekens/borb-examples/blob/master/chapter_007/README_for_leanpub.md#71-extracting-tables-from-a-pdf
 from decimal import Decimal
 
 import typing
