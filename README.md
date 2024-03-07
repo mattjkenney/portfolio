@@ -1,4 +1,3 @@
-# portfolio
-My portfolio page
+# Shared Repo
 
-This repository is for a web application to showcase my work.
+This repository is for sharing various work.
